@@ -1,0 +1,12 @@
+  221  cd notes
+  222  ls
+  223  cd bucket1
+  224  notes
+  225  drills
+  226  notes
+  227  mk cli.md cli-2.md
+  228  mv cli.md cli-2md
+  229  ls
+  230  cd ..
+  231  rm -rf notes
+  232  ls
